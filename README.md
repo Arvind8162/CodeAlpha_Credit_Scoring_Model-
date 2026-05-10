@@ -1,5 +1,9 @@
 # CodeAlpha_Credit_Scoring_Model-
 
+## Deployment
+The web app is hosted on Streamlit Cloud. You can access it using the following link:
+https://codealpha-credit-scoring-ai.streamlit.app/
+
 ## Overview
 
 ![credit-score-architecture@2x](https://user-images.githubusercontent.com/6728866/132927464-5c9e9e05-538c-48c5-bc16-94a6d9d7e57b.jpg)
