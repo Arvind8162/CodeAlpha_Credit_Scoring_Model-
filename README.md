@@ -1,4 +1,4 @@
-# CodeAlpha_Credit_Scoring_Model-
+# Credit_Scoring_Model-
 
 ## Deployment
 The web app is hosted on Streamlit Cloud. You can access it using the following link:
